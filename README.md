@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ritankar Jana</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
-<img align="right" alt="codeing" width="400" src="https://media.licdn.com/dms/image/D5612AQEX1583FfSZLQ/article-cover_image-shrink_720_1280/0/1692777495800?e=1726099200&v=beta&t=OGT-yvW131GHxQgtS4XADyllUbNY0XCuYyUHpQOEV7U">
+<img align="right" alt="codeing" width="350" src="https://media.licdn.com/dms/image/D5612AQEX1583FfSZLQ/article-cover_image-shrink_720_1280/0/1692777495800?e=1726099200&v=beta&t=OGT-yvW131GHxQgtS4XADyllUbNY0XCuYyUHpQOEV7U">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riyal-rj&label=Profile%20views&color=0e75b6&style=flat" alt="riyal-rj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jana_ritankar" target="blank"><img src="https://img.shields.io/twitter/follow/jana_ritankar?logo=twitter&style=for-the-badge" alt="jana_ritankar" /></a> </p>
