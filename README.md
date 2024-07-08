@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jana_ritankar" target="blank"><img src="https://img.shields.io/twitter/follow/jana_ritankar?logo=twitter&style=for-the-badge" alt="jana_ritankar" /></a> </p>
 
-- 🌱 I’m currently learning **LLMs ,RAG and AI Agents**
+- 🌱 I’m currently learning **Gen-AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/riyal-RJ](https://github.com/riyal-RJ)
 
