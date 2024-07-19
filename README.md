@@ -1,4 +1,3 @@
-![logo](https://github.com/riyal-rj/riyal-RJ/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Ritankar Jana</h1>
 <h3 align="center">A passionate Machine Learning Engineer from India</h3>
 
