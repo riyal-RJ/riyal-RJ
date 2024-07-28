@@ -46,7 +46,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyal-rj&show_icons=true&locale=en&layout=compact" alt="riyal-rj" /></p>
 
-![Snake animation](https://github.com/riyal-rj/riyal-RJ/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
