@@ -1,59 +1,108 @@
-<div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
 
-<div align="center" width="50">
-
-
-
-</div>
-
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=RitankarJana&color=brightgreen" alt="watching_count" />
- </p>
- <p align="center">
-<img src="https://img.shields.io/badge/Age-23-blue" />
-  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-Ind%20ia-success" />
-  <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ritankar Jana </h1>
-<h3 align="center">A passionate Machine Learning Engineer from India</h3>
-
-<img align="right" alt="codeing" width="350" src="https://media.licdn.com/dms/image/D5612AQEX1583FfSZLQ/article-cover_image-shrink_720_1280/0/1692777495800?e=1726099200&v=beta&t=OGT-yvW131GHxQgtS4XADyllUbNY0XCuYyUHpQOEV7U">
-
-
-<p align="left"> <a href="https://twitter.com/jana_ritankar" target="blank"><img src="https://img.shields.io/twitter/follow/jana_ritankar?logo=twitter&style=for-the-badge" alt="jana_ritankar" /></a> </p>
-
-- 🌱 I’m currently learning **Gen-AI**
-
-- 👨‍💻 All of my projects are available at [https://github.com/riyal-RJ](https://github.com/riyal-RJ)
-
-- 📫 How to reach me **ritankar.jana.official@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jana_ritankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jana_ritankar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritankar-jana-086a5321b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritankar-jana-086a5321b/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100077661774639" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100077661774639" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/jana_ritankar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/jana_ritankar/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Cover Image" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+```js
+import { SoftwareDeveloper } from '@riyal-RJ (aka Ritankar)';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Ritankar Jana';
+  title    = 'Software Developer | ML/AI Enthusiast';
+  location = 'Kolkata, West Bengal, India';
+  website  = 'loading...';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages     = ['Python', 'JavaScript', 'Java'];
+  mlLibraries   = ['OpenCV', 'PyTorch', 'TensorFlow', 'Transformers', 'Scikit-Learn'];
+  webFrameworks = ['Node.js', 'Express', 'GraphQL', 'React', 'Angular'];
+  databases     = ['MySQL', 'Oracle', 'MongoDB'];
+}
+
+const education = `
+| **Course**                          | **Institution**                            | **Year of Graduation** | **Grade**   |
+|-------------------------------------|--------------------------------------------|------------------------|-------------|
+| B.Tech. in Computer Engineering     | [Academy of Technology](#)                 | 2021 - Present         | 8.99 CGPA   |
+| Higher Secondary [ISC]              | [W.W.A Cossipore English School](#)        | 2018-2020              | 89.25%      |
+| Secondary School [ICSE]             | [W.W.A Cossipore English School](#)        | 2005-2018              | 91.00%      |
+`;
+
+```
+
+<!-- Premium Social Links and Intro -->
+<p align="center">
+  <a href="https://twitter.com/jana_ritankar" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/jana_ritankar?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
+  </a>
+</p>
+
+## 🚀 About Me
+<p align="center">
+  🌱 Currently diving deep into **Generative AI (Gen-AI)**. <br>
+  👨‍💻 Explore my work on [GitHub](https://github.com/riyal-RJ). <br>
+  📫 Get in touch: [ritankar.jana.official@gmail.com](mailto:ritankar.jana.official@gmail.com). <br>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 **Languages**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,py,js,ts,cpp,c&perline=6" alt="Languages"/>
+  </a>
+</p>
+
+### 🗄️ **Databases**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,cassandra&perline=5" alt="Databases"/>
+  </a>
+</p>
+
+### 💻 **IDEs**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,pycharm,eclipse&perline=5" alt="IDEs"/>
+  </a>
+</p>
+
+### 🚀 **Technologies & Frameworks**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,regex,selenium,django,fastapi,express,flask,nodejs,apollo,graphql,react,redux,redis,spring,npm,html,vite,angular,tailwind,threejs,materialui,css,bootstrap,babel&perline=9" alt="Technologies and Frameworks"/>
+  </a>
+</p>
+
+### ⚒️ **Tools & Applications**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,git,github,stackoverflow,gmail,linkedin,instagram,linux,notion,vercel,powershell,ubuntu,discord,anaconda,windows,twitter&perline=8" alt="Tools and Applications"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://twitter.com/jana_ritankar" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ritankar-jana-086a5321b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100077661774639" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/jana_ritankar/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyal-rj&show_icons=true&locale=en&layout=compact" alt="riyal-rj" /></p>
-
-
-
-
-
-
-
-
-
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyal-rj&" alt="riyal-rj" /></p>
