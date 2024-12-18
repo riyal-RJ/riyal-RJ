@@ -39,9 +39,10 @@ const education = `
 
 ## 🚀 About Me
 <p align="center">
-  🌱 Currently diving deep into **Generative AI (Gen-AI)**. <br>
-  👨‍💻 Explore my work on [GitHub](https://github.com/riyal-RJ). <br>
-  📫 Get in touch: [ritankar.jana.official@gmail.com](mailto:ritankar.jana.official@gmail.com). <br>
+  🌱 Currently diving deep into **Generative AI (Gen-AI) and FullStack Developement**. <br>
+  👨‍💻 Check out all my projects on <a href="https://github.com/riyal-RJ" target="_blank"><strong>GitHub</strong></a>. <br>
+  📫 Reach me at <a href="mailto:ritankar.jana.official@gmail.com"><strong>riyal-RJ-email</strong></a>. <br>
+</p>
 </p>
 
 ---
