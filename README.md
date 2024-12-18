@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" alt="Cover Image" />
+  <img src="https://github.com/riyal-rj/riyal-RJ/blob/main/cover-rj.png" alt="Cover Image" />
 </p>
 
 ```js
