@@ -1,9 +1,8 @@
-
 <p align="center">
   <img src="https://github.com/riyal-rj/riyal-RJ/blob/main/cover-rj.png" alt="Cover Image" />
 </p>
 
-```js
+```javascript
 import { SoftwareDeveloper } from '@riyal-RJ (aka Ritankar)';
 
 class Bio extends SoftwareDeveloper {
@@ -27,22 +26,22 @@ const education = `
 | Higher Secondary [ISC]              | [W.W.A Cossipore English School](#)        | 2018-2020              | 89.25%      |
 | Secondary School [ICSE]             | [W.W.A Cossipore English School](#)        | 2005-2018              | 91.00%      |
 `;
-
 ```
 
-<!-- Premium Social Links and Intro -->
 <p align="center">
   <a href="https://twitter.com/jana_ritankar" target="_blank">
     <img src="https://img.shields.io/twitter/follow/jana_ritankar?logo=twitter&style=for-the-badge" alt="Twitter Badge"/>
   </a>
 </p>
 
+---
+
 ## 🚀 About Me
+
 <p align="center">
-  🌱 Currently diving deep into <b>Generative AI (Gen-AI) and FullStack Developement</b>. <br>
+  🌱 Currently diving deep into <b>Generative AI (Gen-AI) and FullStack Development</b>. <br>
   👨‍💻 Check out all my projects on <a href="https://github.com/riyal-RJ" target="_blank"><strong>GitHub</strong></a>. <br>
   📫 Reach me at <a href="mailto:ritankar.jana.official@gmail.com"><strong>riyal-RJ-email</strong></a>. <br>
-</p>
 </p>
 
 ---
@@ -84,8 +83,7 @@ const education = `
   </a>
 </p>
 
-
-### AI-ML and LLM Frameworks
+### 🤖 **AI-ML & LLM Frameworks**
 <p align="center">
 <a href="https://lobehub.com/icons/mistral"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/mistral-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mistral-color.png" /></picture>
 <a href="https://lobehub.com/icons/huggingface"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/huggingface-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/huggingface-color.png" /></picture>
@@ -102,9 +100,22 @@ const education = `
 <a href="https://lobehub.com/icons/stability"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/stability-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/stability-color.png" /></picture>
 <a href="https://lobehub.com/icons/perplexity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/perplexity-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/perplexity-color.png" /></picture>
 </p>
+  
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyal-rj&theme=radical" alt="GitHub Streak Stats"/>
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riyal-rj&layout=compact&theme=radical" alt="Most Used Languages"/>
+</p>
+</p>
 ---
 
 ## 🌐 Connect With Me
+
 <p align="center">
   <a href="https://twitter.com/jana_ritankar" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
@@ -119,9 +130,3 @@ const education = `
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
-
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=riyal-rj&show_icons=true&locale=en&layout=compact" alt="riyal-rj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyal-rj&" alt="riyal-rj" /></p>
