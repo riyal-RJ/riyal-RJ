@@ -39,7 +39,7 @@ const education = `
 
 ## 🚀 About Me
 <p align="center">
-  🌱 Currently diving deep into **Generative AI (Gen-AI) and FullStack Developement**. <br>
+  🌱 Currently diving deep into <b>Generative AI (Gen-AI) and FullStack Developement</b>. <br>
   👨‍💻 Check out all my projects on <a href="https://github.com/riyal-RJ" target="_blank"><strong>GitHub</strong></a>. <br>
   📫 Reach me at <a href="mailto:ritankar.jana.official@gmail.com"><strong>riyal-RJ-email</strong></a>. <br>
 </p>
@@ -84,6 +84,24 @@ const education = `
   </a>
 </p>
 
+
+### AI-ML and LLM Frameworks
+<p align="center">
+<a href="https://lobehub.com/icons/mistral"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/mistral-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/mistral-color.png" /></picture>
+<a href="https://lobehub.com/icons/huggingface"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/huggingface-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/huggingface-color.png" /></picture>
+<a href="https://lobehub.com/icons/claude"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/claude-color.png" /></picture>
+<a href="https://lobehub.com/icons/cohere"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cohere-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/cohere-color.png" /></picture>
+<a href="https://lobehub.com/icons/langchain"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langchain-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/langchain-color.png" /></picture>
+<a href="https://lobehub.com/icons/gemini"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemini-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemini-color.png" /></picture>
+<a href="https://lobehub.com/icons/gemma"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/gemma-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/gemma-color.png" /></picture><br/>
+<a href="https://lobehub.com/icons/groq"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/groq.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/groq.png" /></picture>
+<a href="https://lobehub.com/icons/anthropic"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/anthropic.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/anthropic.png" /></picture>
+<a href="https://lobehub.com/icons/comfyui"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/comfyui-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/comfyui-color.png" /></picture>
+<a href="https://lobehub.com/icons/ollama"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/ollama.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/ollama.png" /></picture>
+<a href="https://lobehub.com/icons/qwen"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/qwen-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/qwen-color.png" /></picture>
+<a href="https://lobehub.com/icons/stability"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/stability-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/stability-color.png" /></picture>
+<a href="https://lobehub.com/icons/perplexity"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/perplexity-color.png" /><img height="56px" width="56px" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/light/perplexity-color.png" /></picture>
+</p>
 ---
 
 ## 🌐 Connect With Me
