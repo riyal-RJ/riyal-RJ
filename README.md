@@ -2,24 +2,24 @@
   <img src="https://github.com/riyal-rj/riyal-RJ/blob/main/cover-rj.png" alt="Cover Image" />
 </p>
 
-```javascript
-import { SoftwareDeveloper } from '@riyal-RJ (aka Ritankar)';
+```typescript
+import { SoftwareDeveloper } from '@riyal-RJ ';//(aka Ritankar)
 
 class Bio extends SoftwareDeveloper {
-  name     = 'Ritankar Jana';
-  title    = 'Software Developer | ML/AI Enthusiast';
-  location = 'Kolkata, West Bengal, India';
-  website  = 'loading...';
+  name:     string = 'Ritankar Jana';
+  title:    string = 'Software Developer | ML/AI Enthusiast';
+  location: string = 'Kolkata, West Bengal, India';
+  website:  string = 'loading...';
 }
 
 class Skills extends SoftwareDeveloper {
-  languages     = ['Python', 'JavaScript', 'Java'];
-  mlLibraries   = ['OpenCV', 'PyTorch', 'TensorFlow', 'Transformers', 'Scikit-Learn'];
-  webFrameworks = ['Node.js', 'Express', 'GraphQL', 'React', 'Angular'];
-  databases     = ['MySQL', 'Oracle', 'MongoDB'];
+  languages:     string[] = ['Python', 'JavaScript', 'Java'];
+  mlLibraries:   string[] = ['OpenCV', 'PyTorch', 'TensorFlow', 'Transformers', 'Scikit-Learn'];
+  webFrameworks: string[] = ['Node.js', 'Express', 'GraphQL', 'React', 'Angular'];
+  databases:     string[] = ['MySQL', 'Oracle', 'MongoDB'];
 }
 
-const education = `
+const education :string[]= `
 | **Course**                          | **Institution**                            | **Year of Graduation** | **Grade**   |
 |-------------------------------------|--------------------------------------------|------------------------|-------------|
 | B.Tech. in Computer Engineering     | [Academy of Technology](#)                 | 2021 - Present         | 8.99 CGPA   |
